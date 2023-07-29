@@ -1,4 +1,4 @@
-#### Olá! Eu sou o César Robusti 👋
+### Olá! Eu sou o César Robusti 👋
 
 ##### Sobre mim
 - Estudante de Gestão de TI - USCS
