@@ -1,10 +1,9 @@
 ### Olá! Eu sou o César Robusti 👋
 
 ##### Sobre mim
-- Estudante de Gestão de TI - USCS
-- Bolsista PIBIC - CNPq
-- Monitor Técnico de TI
+- Mestrando em Administração - USCS
 - Graduado em Gastronomia com especialização em Gastronomia e Gestão de A&B
+- Graduado em Gestão de TI
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarrobusti/)
 
