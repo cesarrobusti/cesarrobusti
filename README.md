@@ -17,12 +17,8 @@ Pesquisador na interseção entre Administração, Ciência de Dados e Tecnologi
 ---
 
 #### 🌐 Conecte-se comigo / Identificadores Acadêmicos
-<p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="https://orcid.org" target="_blank"><img src="https://shields.io" alt="ORCID"></a>
-  <a href="https://google.com" target="_blank"><img src="https://shields.io" alt="Google Scholar"></a>
-  <a href="http://cnpq.br" target="_blank"><img src="https://shields.io" alt="Lattes"></a>
-</p>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarrobusti/) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4857-4874) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=df4j80QAAAAJ&hl=en) [![Lattes](https://shields.io)](http://cnpq.br)
 
 ---
 
@@ -55,12 +51,8 @@ Aplicação prática de técnicas computacionais para mineração de dados, revi
 ---
 
 #### 🛠️ Tecnologias & Ferramentas
-<p align="left">
-  <img src="https://shields.io" alt="R Project" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Markdown" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+
+![R](https://shields.io) ![Python](https://shields.io) ![Markdown](https://shields.io) ![Git](https://shields.io)
 
 ---
 
@@ -71,6 +63,5 @@ Aplicação prática de técnicas computacionais para mineração de dados, revi
 ---
 
 #### 📈 Estatísticas do Perfil
-<p align="left">
-  <img src="https://vercel.app" alt="Top Langs" />
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarrobusti&size_weight=0.5&count_weight=0.5)
