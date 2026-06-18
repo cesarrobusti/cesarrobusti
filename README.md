@@ -37,8 +37,8 @@ Aplicação prática de técnicas computacionais para mineração de dados, revi
 ---
 
 #### 🚀 Projetos em Destaque
-*   📌 **[projeto-impacto](https://github.com):** Repositório oficial do projeto FAPESP (FEA-USP) focado na avaliação e síntese do impacto da pós-graduação em Administração na sociedade brasileira através de técnicas de LDA (Latent Dirichlet Allocation) e raspagem automatizada com Selenium.
-*   🏫 **[Script-R](https://github.com):** Scripts didáticos estruturados para análise bibliométrica e Análise de Redes Sociais (ARS) com suporte ao pacote Bibliometrix (RStudio), utilizados em oficinas e disciplinas na USCS.
+*   📌 **[projeto-impacto](https://github.com/cesarrobusti/projeto-impacto):** Repositório oficial do projeto FAPESP (FEA-USP) focado na avaliação e síntese do impacto da pós-graduação em Administração na sociedade brasileira através de técnicas de LDA (Latent Dirichlet Allocation) e raspagem automatizada com Selenium.
+*   🏫 **[Script-R](https://github.com/cesarrobusti/Script-R):** Scripts didáticos estruturados para análise bibliométrica e Análise de Redes Sociais (ARS) com suporte ao pacote Bibliometrix (RStudio), utilizados em oficinas e disciplinas na USCS.
 
 ---
 
