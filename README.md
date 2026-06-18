@@ -8,5 +8,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarrobusti/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4857-4874)
+[![Google Scholar](https://shields.io)](https://google.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarrobusti&size_weight=0.5&count_weight=0.5)
