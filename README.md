@@ -1,6 +1,6 @@
 ### Olá! Eu sou o César Robusti 👋
 
-Pesquisador na interseção entre Administração, Ciência de Dados e Tecnologia da Informação. Atualmente, investigo Redes Organizacionais, Inovação e o impacto da pesquisa científica na sociedade por meio de análises computacionais, bibliométricas e de redes sociais.
+Mestrando atuando na interseção entre Administração, Ciência de Dados e Tecnologia da Informação. Atualmente, investigo Redes Organizacionais, Inovação e o impacto da pesquisa científica na sociedade por meio de análises computacionais, bibliométricas e de redes sociais.
 
 ---
 
@@ -18,21 +18,7 @@ Pesquisador na interseção entre Administração, Ciência de Dados e Tecnologi
 
 #### 🌐 Conecte-se comigo / Identificadores Acadêmicos
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarrobusti/) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4857-4874) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=df4j80QAAAAJ&hl=en) [![Lattes](https://shields.io)](http://cnpq.br)
-
----
-
-#### 🏫 Disciplinas Avançadas Cursadas (Aluno Especial)
-Formação complementar focada em métodos de pesquisa avançados, análise de dados e inteligência artificial aplicados à gestão:
-
-*   **FEA-USP (2025):**
-    *   Ciência de Dados II: Aplicações de Inteligência Artificial em Gestão
-    *   Transformação Digital e Modelos de Negócio Digitais em Organizações
-    *   Análise de Dados em Pesquisa Qualitativa
-*   **PPGA-USCS (via PROFA):**
-    *   Inteligência Artificial em Pesquisa Acadêmica
-    *   Pesquisa Quantitativa em Administração I
-    *   Escrita Científica e Elaboração de Artigos
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarrobusti/) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4857-4874) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=df4j80QAAAAJ&hl=en)
 
 ---
 
@@ -41,18 +27,12 @@ Formação complementar focada em métodos de pesquisa avançados, análise de d
 
 ---
 
-#### 📊 Métodos Computacionais & Ferramentas
+#### 📊 Métodos Computacionais & Ferramentas utilizadas
 Aplicação prática de técnicas computacionais para mineração de dados, revisão sistemática de literatura, análise de conteúdo e mapeamento de redes de colaboração científica (grandes e pequenos datasets).
 
-*   **Bases de Dados & Gestão:** Web of Science, Scopus, Mendeley.
+*   **Bases de Dados & Gestão:** Web of Science, Scopus, Pubmed, Mendeley.
 *   **Bibliometria & Cientometria:** Bibliometrix (R), Bibexcel, scriptLattes.
-*   **Análise de Redes Sociais (ARS) & Texto:** Gephi, VOSviewer, Ucinet, Iramuteq.
-
----
-
-#### 🛠️ Tecnologias & Ferramentas
-
-![R](https://shields.io) ![Python](https://shields.io) ![Markdown](https://shields.io) ![Git](https://shields.io)
+*   **Análise de Redes Sociais (ARS) & Texto:** Gephi, VOSviewer, Ucinet, Pajek, Iramuteq.
 
 ---
 
