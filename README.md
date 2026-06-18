@@ -18,10 +18,10 @@ Pesquisador na interseção entre Administração, Ciência de Dados e Tecnologi
 
 #### 🌐 Conecte-se comigo / Identificadores Acadêmicos
 <p align="left">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="https://orcid.org"><img src="https://shields.io" alt="ORCID"></a>
-  <a href="https://google.com"><img src="https://shields.io" alt="Google Scholar"></a>
-  <a href="http://cnpq.br"><img src="https://shields.io" alt="Lattes"></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="https://orcid.org" target="_blank"><img src="https://shields.io" alt="ORCID"></a>
+  <a href="https://google.com" target="_blank"><img src="https://shields.io" alt="Google Scholar"></a>
+  <a href="http://cnpq.br" target="_blank"><img src="https://shields.io" alt="Lattes"></a>
 </p>
 
 ---
