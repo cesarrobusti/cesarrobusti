@@ -12,7 +12,7 @@ Mestre atuando na interseção entre Administração, Ciência de Dados e Tecnol
   *Linha de Pesquisa: Redes Organizacionais e Inovação. Foco em capital social, capital intelectual, colaboração e spillovers de conhecimento em grandes infraestruturas de pesquisa.*
 - 🎓 **Graduado em Gestão da TI** | USCS (2024)  
   *Participante do PROFA (Programa de Formação Ampliada Graduação/Pós-graduação Stricto Sensu).*
-- 🍳 **Graduado em Gastrornomia e Especialista em Gastronomia & Gestão de A&B** | FMU / Anhembi Morumbi  
+- 🍳 **Graduado em Gastronomia e Especialista em Gastronomia & Gestão de A&B** | FMU / Anhembi Morumbi  
   *Graduação (2019) e MBA (2021) com experiência profissional em liderança e gestão de equipes de cozinha.*
 
 ---
