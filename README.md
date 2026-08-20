@@ -1,6 +1,6 @@
 ### Olá! Eu sou o César Robusti 👋
 
-Mestrando atuando na interseção entre Administração, Ciência de Dados e Tecnologia da Informação. Atualmente, investigo Redes Organizacionais, Inovação e o impacto da pesquisa científica na sociedade por meio de análises computacionais, bibliométricas e de redes sociais.
+Mestre atuando na interseção entre Administração, Ciência de Dados e Tecnologia da Informação. Atualmente, investigo Redes Organizacionais, Inovação e o impacto da pesquisa científica na sociedade por meio de análises computacionais, bibliométricas e de redes sociais.
 
 ---
 
