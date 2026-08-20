@@ -5,10 +5,11 @@ Mestrando atuando na interseção entre Administração, Ciência de Dados e Tec
 ---
 
 #### 🎓 Formação Acadêmica & Vínculos Atuais
-- 🔬 **Mestrando em Administração** | PPGA-USCS  
-  *Linha de Pesquisa: Redes Organizacionais e Inovação. Foco em capital social, capital intelectual, colaboração e spillovers de conhecimento em grandes infraestruturas de pesquisa.*
+- 💻 **Cursando Especialização em Inteligência Artificial e Tecnologias Educacionais** | PUC-MINAS
 - 💼 **Bolsista FAPESP (TT)** | FEA-USP  
   *Atuação no projeto "Avaliação e síntese do impacto da pesquisa em Administração na sociedade".*
+- 🔬 **Mestre em Administração** | PPGA-USCS  
+  *Linha de Pesquisa: Redes Organizacionais e Inovação. Foco em capital social, capital intelectual, colaboração e spillovers de conhecimento em grandes infraestruturas de pesquisa.*
 - 🎓 **Graduado em Gestão da TI** | USCS (2024)  
   *Participante do PROFA (Programa de Formação Ampliada Graduação/Pós-graduação Stricto Sensu).*
 - 🍳 **Graduado em Gastrornomia e Especialista em Gastronomia & Gestão de A&B** | FMU / Anhembi Morumbi  
